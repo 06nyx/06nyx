@@ -32,7 +32,7 @@
 
 - ☁️ Enthusiastic about **cybersecurity**
 
-- 💬 Computer Science Student**
+- 💬 Computer Science **Student**
 
 - 🏠 You can talk to me on **👋** Discord – [.init.](https://discordapp.com/users/478558960652255232) my username!
 <!--Intro end-->
