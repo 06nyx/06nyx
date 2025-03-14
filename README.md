@@ -5,14 +5,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy 06</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, im 06</h1></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -20,22 +20,21 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación.</h2></summary>
+    <summary><h2 style="display: inline-block">yeah.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 Senior en **Python y Go**
+- 🔭 Senior in **Python and Go**
 
-- 🌱 Estoy aprendiendo **Ruby**
+- 🌱 I'm learning **Ruby**
 
-- ☁️ Encantado por la **ciberseguridad**
+- ☁️ Enthusiastic about **cybersecurity**
 
-- 💬 Estudiante de **informatica**
+- 💬 Computer Science Student**
 
-
-- 🏠 Podes hablarme por **👋** Discord –  [.init.](https://discordapp.com/users/478558960652255232) mi nombre de usuario!
+- 🏠 You can talk to me on **👋** Discord – [.init.](https://discordapp.com/users/478558960652255232) my username!
 <!--Intro end-->
 
 
